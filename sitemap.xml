@@ -2,46 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/project/cartoon/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/project/paper/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/cosmetics/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/project/code/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/cv/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/project/demo/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/project/awesome/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/ml/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/nlp/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/recommendation/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/about/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
