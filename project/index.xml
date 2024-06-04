@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | InCharacter</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu11a97e75f4cd5c6c9711b905c84b7f7b_144235_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu11a97e75f4cd5c6c9711b905c84b7f7b_144235_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>InCharacter Paper</title>
-      <link>https://example.com/project/paper/</link>
+      <link>http://localhost:1313/project/paper/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/paper/</guid>
+      <guid>http://localhost:1313/project/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>InCharacter Code</title>
-      <link>https://example.com/project/code/</link>
+      <link>http://localhost:1313/project/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/code/</guid>
+      <guid>http://localhost:1313/project/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>InCharacter Demo</title>
-      <link>https://example.com/project/demo/</link>
+      <link>http://localhost:1313/project/demo/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/demo/</guid>
+      <guid>http://localhost:1313/project/demo/</guid>
       <description></description>
     </item>
     
